@@ -35,6 +35,9 @@
 
 ---
 
+本项目已过时，请移步 https://github.com/UIGF-org/mihoyo-api-sdk
+This repo is deprecated by https://github.com/UIGF-org/mihoyo-api-sdk
+
 目的是收集米哈游的米游社等应用、原神等游戏的API。
 
 ---
